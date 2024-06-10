@@ -70,3 +70,12 @@ This is the cap of the backpack. It connects to the steel tubing for the cathete
 <img width="500" src="https://github.com/AnnLiBenn/OsmoticPump/assets/43388358/39fa9b7f-9d74-4ebd-b172-d2be5f57b151">
 </p>
 12. Incubate the pumps (no the caps - keep them dry) in 37°C 0.9% saline
+
+## Preparing the Backpack
+
+1. Cut a length of elastic to go create leg loops in backpacks, inserting either end into the designated holes
+2. After placing the backpack on the bird, insert cap into backpack
+3. Fill backpack with saline using the middle hole in the cap
+4. Seal backpack, middle holes, and steel tubing holes with UV curing silicone sealant
+5. Remove silicond plug in middle hole to replenish saline as necessary
+
