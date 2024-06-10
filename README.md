@@ -29,6 +29,10 @@ This is the cap of the backpack. It connects to the steel tubing for the cathete
 
 ## Preparing the Osmotic Pumps
 
+<p align="center">
+<img width="500" src="https://github.com/AnnLiBenn/OsmoticPump/assets/43388358/90e0f46a-6cee-4d62-b7b8-7a017588090c">
+</p>
+
 **Pre-prep:**
 
 - **Prepare the cannula:** Shave down two opposing halves of a cannula and use epoxy to combine them, such that the catheter tubing is approximatly 1mm apart.
@@ -45,9 +49,15 @@ This is the cap of the backpack. It connects to the steel tubing for the cathete
 1. Remove flow moderators from stainless steel tubes
 2. Heat 0.9% saline to 37°C
 3. Remove the cannula from the tubing
-4. Attach the stainless steel tube to the catheter tubing below the cap, where the catheter tubing covers 3mm of the stainless steel tube
+4. Attach the stainless steel tube to the catheter tubing below the cap, where the catheter tubing covers 3mm of the stainless steel tube 
+<p align="center">
+<img width="500" src="https://github.com/AnnLiBenn/OsmoticPump/assets/43388358/93b38de5-2e0f-4083-8e2b-7202a6bed67d">
+</p>
 5. Prepare ACSF
 6. One catheter tube at a time, insert the stainless steel tube of the filling syringe into the distal end of the catheter
+<p align="center">
+<img width="500" src="https://github.com/AnnLiBenn/OsmoticPump/assets/43388358/89af4af1-b5f5-4c8d-81b8-44339c061bdf">
+</p>
 7. Fill the catheter and the stainless steel tube using the filling syringe
 8. Leaving the filling syring attached, fill the pump with ACSF using the sterile filling needle:
 - Weigh the empty pump (0.35g)
@@ -56,4 +66,7 @@ This is the cap of the backpack. It connects to the steel tubing for the cathete
 9. With the filling syring still attached, insert the flow moderator into the pump, ensuring there are no bubbles
 10. Remove the filling syringe and reattach the cannula
 11. Repeat the same for the othe side
+<p align="center">
+<img width="500" src="https://github.com/AnnLiBenn/OsmoticPump/assets/43388358/39fa9b7f-9d74-4ebd-b172-d2be5f57b151">
+</p>
 12. Incubate the pumps (no the caps - keep them dry) in 37°C 0.9% saline
