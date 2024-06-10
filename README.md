@@ -10,7 +10,21 @@ In this repository are all the parts required to build an osmotic pump backpack.
 
 ### Backpack
 
-This is the main body of the backpack that houses two osmotic pumps. Print in Durable resin at 
+This is the main body of the backpack that houses two osmotic pumps. Print in Durable resin at 0.8 density and 0.45mm touchpoints.
+
+<p align="center">
+<img width="300" alt="Screenshot 2024-06-10 at 10 47 44 AM" src="https://github.com/AnnLiBenn/OsmoticPump/assets/43388358/7ea1915f-9344-4e69-9bfb-3c8011de9351">
+</p>
+
+### Cap
+
+This is the cap of the backpack. It connects to the steel tubing for the catheter tubing, and has a central hole for topping off ACSF. Print in Durable resin at 0.8 density and 0.45 touchpoints.
+
+<p align="center">
+<img width="300" alt="Screenshot 2024-06-10 at 10 50 05 AM" src="https://github.com/AnnLiBenn/OsmoticPump/assets/43388358/9bd745c5-cd57-44d9-b962-073ce70552a1">
+</p>
+
+
 # Assembly Instructions
 
 ## Preparing the Osmotic Pumps
@@ -18,6 +32,11 @@ This is the main body of the backpack that houses two osmotic pumps. Print in Du
 **Pre-prep:**
 
 - **Prepare the cannula:** Shave down two opposing halves of a cannula and use epoxy to combine them, such that the catheter tubing is approximatly 1mm apart.
+<p align="center">
+<img width="200" src="https://github.com/AnnLiBenn/OsmoticPump/assets/43388358/801a6a94-33b7-4c1b-a892-607f31d9a2ca">
+<img width="200" src="https://github.com/AnnLiBenn/OsmoticPump/assets/43388358/996f1acc-4953-4f4b-9093-e7b6cd00e75a">
+</p>
+  
 - **Prepare catheter tubing:** Cut tubing to approx 1.5in
 - **Prepare the filling syringe:** Using an angled blunt syringe, attach catheter tubing to the syringe, then the stainless steel tube to the end of the catheter tubing
 
@@ -37,4 +56,4 @@ This is the main body of the backpack that houses two osmotic pumps. Print in Du
 9. With the filling syring still attached, insert the flow moderator into the pump, ensuring there are no bubbles
 10. Remove the filling syringe and reattach the cannula
 11. Repeat the same for the othe side
-  12. Incubate the pumps (no the caps - keep them dry) in 37°C 0.9% saline
+12. Incubate the pumps (no the caps - keep them dry) in 37°C 0.9% saline
